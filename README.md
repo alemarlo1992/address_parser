@@ -10,7 +10,7 @@ The API class is unit tested by mocking the expected body for each scenario.
 
 ## Prerequisite
 1. `ruby 3.2.1`
-2. git clone this repo
+2. git clone `https://github.com/alemarlo1992/address_parser.git`
 
 ## API 
 
