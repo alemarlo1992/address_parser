@@ -7,6 +7,7 @@
 ## API 
 
 Endpoint: `https://us-street.api.smartystreets.com/street-address`
+
 Licence: `us-core-cloud`
 
 ## Setting Up Environment Variables 
